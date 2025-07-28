@@ -3,6 +3,8 @@
 
 Analyze Diwali sales data to uncover customer behavior, top-selling products, and trends using Python and data visualization.
 
+
+
 🔧 Technologies Used
 
 Python: pandas, NumPy
@@ -10,6 +12,8 @@ Python: pandas, NumPy
 Visualization: Matplotlib, Seaborn
 
 Notebook: Jupyter
+
+
 
 🔍 Analysis Workflow
 
@@ -25,6 +29,8 @@ Visualization: Bar charts, countplots, to represent insights
 usage of subplots.
 
 Key Insights: Document observations that can inform marketing and inventory decisions
+
+
 
 📈 Insights & Findings
 
